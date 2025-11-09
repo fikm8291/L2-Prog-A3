@@ -1,6 +1,6 @@
 # -------------------------------------------
 # Assessment 3: Library Book Tracker
-# Manchester Central Library
+# Manchester Central Library (Brief 5)
 # -------------------------------------------
 # This program helps staff manage and record borrowed books.
 # Focus on accuracy, validation, and user-friendly presentation.
@@ -12,7 +12,7 @@
 # TODO
 # -------------------------------------------
 # 1. Delete the other briefs' Python files inside this repository.
-# 2. Rename this file to your own program's name (e.g. book_tracker.py)
+# 2. Rename this file to your own program's name (e.g. tax_calculator.py)
 # 3. Run:
 #    git add .
 #    git commit -m "Started project"

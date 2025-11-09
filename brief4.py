@@ -2,8 +2,8 @@
 # Assessment 3: Event Registration App
 # Greater Manchester Community Centre (Brief 4)
 # -------------------------------------------
-# This program helps manage event registrations in a clear and structured way.
-# Think carefully about data design, input validation, and user experience.
+# Think carefully about how to structure your code, validate user input,
+# and present information clearly to the user.
 #
 # Remember to save, stage, commit, and push after completing each task.
 # -------------------------------------------

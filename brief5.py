@@ -2,8 +2,8 @@
 # Assessment 3: Library Book Tracker
 # Manchester Central Library (Brief 5)
 # -------------------------------------------
-# This program helps staff manage and record borrowed books.
-# Focus on accuracy, validation, and user-friendly presentation.
+# Think carefully about how to structure your code, validate user input,
+# and present information clearly to the user.
 #
 # Remember to save, stage, commit, and push after completing each task.
 # -------------------------------------------

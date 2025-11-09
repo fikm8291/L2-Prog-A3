@@ -2,8 +2,8 @@
 # Assessment 3: Expense Tracker
 # University of Manchester Student Union (Brief 6)
 # -------------------------------------------
-# This program helps student clubs monitor and review their spending.
-# Focus on accurate data entry, clear presentation, and useful totals.
+# Think carefully about how to structure your code, validate user input,
+# and present information clearly to the user.
 #
 # Remember to save, stage, commit, and push after completing each task.
 # -------------------------------------------

@@ -12,7 +12,7 @@
 # TODO
 # -------------------------------------------
 # 1. Delete the other briefs' Python files inside this repository.
-# 2. Rename this file to your own program's name (e.g. inventory_manager.py)
+# 2. Rename this file to your own program's name (e.g. tax_calculator.py)
 # 3. Run:
 #    git add .
 #    git commit -m "Started project"

@@ -43,6 +43,20 @@
 # This proves the code is yours and shows your progress over time.
 # ===========================================
 #
+# ===========================================
+# DEBUGGING: Assessment 4
+# ===========================================
+# Experienced developers keep track of their "fixes". As you work, 
+# try to capture the following to save yourself time later:
+#
+# 1. THE BUG: A screenshot or copy-paste of a crash or error.
+# 2. THE FIX: A screenshot of the code once you solved the problem.
+# 3. THE LESSON: A quick note on why it happened (e.g. "Forgot a colon").
+#
+# Keeping a small folder of these "Before & After" moments will 
+# help us complete "Assessment 4 – Testing & Review" in the near future.
+# ===========================================
+#
 # -------------------------------------------
 # DOCUMENTATION REQUIREMENT
 # -------------------------------------------
@@ -51,5 +65,5 @@
 # This will be your documentation.
 # -------------------------------------------
 
-# (Remember to add meaningful comments to explain your logic)
+# Note: Remember to add meaningful comments to explain your logic.
 # WRITE YOUR PROGRAM CODE BELOW:
